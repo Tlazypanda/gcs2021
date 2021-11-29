@@ -1,7 +1,7 @@
-[![](https://img.shields.io/badge/Speakers-17-brightgreen)](https://gitcommit.show)
+[![](https://img.shields.io/badge/Speakers-15-brightgreen)](https://gitcommit.show)
 [![](https://img.shields.io/badge/Venue-Online-brightgreen)](https://gitcommit.show)
 [![](https://img.shields.io/badge/Contributors-37-brightgreen)](https://gitcommit.show)
-[![](https://img.shields.io/badge/Season-02-brightgreen)](https://gitcommit.show)
+[![](https://img.shields.io/badge/Season-03-brightgreen)](https://gitcommit.show)
 [![](https://img.shields.io/badge/Interactive-Yes-brightgreen)](https://gitcommit.show)
 [![](https://img.shields.io/badge/Price-Free-brightgreen)](https://gitcommit.show)
 
@@ -19,6 +19,7 @@
 [3.1]: https://img.icons8.com/material/48/000000/youtube--v2.png (Watch our videos)
 [4.1]: https://img.icons8.com/material/48/000000/reddit.png (Check out the reddit community)
 [5.1]: https://img.icons8.com/material/48/000000/telegram-app.png (Add us on Telegram)
+[6.1]: https://img.icons8.com/material-rounded/48/000000/discord-logo.png (Join our discord server)
 
 
 <!-- links to your social media accounts -->
@@ -28,6 +29,7 @@
 [3]: https://www.youtube.com/channel/UCw0-LetPQsqO70O-8QN8MVA?sub_confirmation=1
 [4]: https://www.reddit.com/r/GitCommitShow/
 [5]: https://t.me/gitcommitshow
+[6]: https://discord.gg/JFWP8c2gPG
 
 
 ![Banner Image](https://github.com/Git-Commit-Show/gcs2020/raw/master/banner_center%201500x300.jpeg.jpeg "GCS2020 Banner")
@@ -60,12 +62,14 @@ Learn directly from master via interactive live talk
 [![](https://img.shields.io/badge/%23-DevelopmentWorkflow-lightgrey)](https://gitcommit.show)
 [![](https://img.shields.io/badge/%23-Git-lightgrey)](https://gitcommit.show)
 
+* [Link to presentation](https://robrich.org/presentation/2021/11/26/definitive-deep-dive-into-the-git-folder.aspx)
+
 
 **Accelerating accessibility in a component-based world**
 
 > by Hidde de Vries, Accessibility Consultant and Frontend Dev
 
-* [Link to presentation](https://drive.google.com/file/d/1O1jAQuKeP9U8mKfe-KCYdyuTsofF35ZX/view?usp=sharing)
+* [Link to presentation](https://drive.google.com/file/d/1qR9AoIXDzoiRNzFgTpsqEY2Svqh_Ppsq/view?usp=sharing)
 
 [![](https://img.shields.io/badge/%23-Accessibility-lightgrey)](https://gitcommit.show)
 
@@ -75,6 +79,8 @@ Learn directly from master via interactive live talk
 > by Maanav Seth, Executive Member of Quantum Computing Group IIT Roorkee
 
 [![](https://img.shields.io/badge/%23-QuantumComputing-lightgrey)](https://gitcommit.show)
+
+* [Link to presentation](https://drive.google.com/file/d/1ZeFwL7FA7zwKqlEHoCiLK7jsuGRNZJad/view?usp=sharing)
 
 
 **Github Actions + Kubernetes : The recipe to level up your software development skills**
@@ -89,7 +95,6 @@ Learn directly from master via interactive live talk
 
 > by Praveen Kumar Purushothaman, Full Stack JavaScript Specialist 
 
-* [Link to presentation](https://drive.google.com/file/d/1Ar4FWktBzm4RnKlGCW2KeOC294WClsRI/view?usp=sharing)
 
 [![](https://img.shields.io/badge/%23-FrontEnd-lightgrey)](https://gitcommit.show)
 [![](https://img.shields.io/badge/%23-React-lightgrey)](https://gitcommit.show)
@@ -99,7 +104,7 @@ Learn directly from master via interactive live talk
 
 > by Kilian Valkhof, Creator of Polypane
 
-* [Link to presentation](https://drive.google.com/file/d/1xxOib_9dr3a88GRk8_oO77NMYWVwG710/view?usp=sharing)
+* [Link to presentation](https://drive.google.com/file/d/1-99CfXLGpbxEC7vkvCwrRamJ-vgCgBMH/view?usp=sharing)
 
 [![](https://img.shields.io/badge/%23-FrontEnd-lightgrey)](https://gitcommit.show)
 [![](https://img.shields.io/badge/%23-CSS-lightgrey)](https://gitcommit.show)
@@ -113,7 +118,7 @@ Demo of latest breakthroughs happening around the world and the people behind th
 
 > by Ken Soh, Product Engineer at AI Singapore
 
-* [Link to presentation](https://drive.google.com/file/d/1gGEpIKVEhvNpPN8SyyZgz_BXcrFrD2vE/view?usp=sharing)
+* [Link to presentation](https://docs.google.com/presentation/d/11T2VuiBawCQ5JeCKo-H3zL2bbXjCv_sl/edit?usp=sharing&ouid=117926440804498218513&rtpof=true&sd=true)
 
 [![](https://img.shields.io/badge/%23-Automation-lightgrey)](https://gitcommit.show)
 [![](https://img.shields.io/badge/%23-RPA-lightgrey)](https://gitcommit.show)
@@ -123,7 +128,7 @@ Demo of latest breakthroughs happening around the world and the people behind th
 
 > by Yashovardhan Agrawal, Developer Relations Manager at Rocket.Chat
 
-* [Full recording of the masterclass](https://youtu.be/vmshzcmTeB8)
+* [Link to presentation](https://drive.google.com/file/d/1kKcun9Djw3GrOGxOueORm7nkmLFSp61i/view?usp=sharing)
 
 [![](https://img.shields.io/badge/%23-NodeJS-lightgrey)](https://gitcommit.show)
 [![](https://img.shields.io/badge/%23-Backend-lightgrey)](https://gitcommit.show)
@@ -157,11 +162,15 @@ Career insights for everyone and anyone
 
 > by Hemant Rangan, Director, Inderact Limited (Enhancing India-Global collaborations)
 
+* [Link to presentation](https://drive.google.com/file/d/1Oy8xF-syY3YTv8oOnoTvp_s9k4P73qf_/view?usp=sharing)
+
 [![](https://img.shields.io/badge/%23-Publishing-lightgrey)](https://gitcommit.show)
 
 **Future is open-source**
 
 > by Kamal Shree, A seasoned professional with 11+ plus years of experience in client-facing roles.
+
+* [Link to presentation](https://docs.google.com/presentation/d/1-En4FGp_uZgH5KqPsAAVkVl5drTc-Pwr/edit?usp=sharing&ouid=117926440804498218513&rtpof=true&sd=true)
 
 [![](https://img.shields.io/badge/%23-Open%20Source-lightgrey)](https://gitcommit.show)
 
