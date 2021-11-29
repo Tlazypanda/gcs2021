@@ -9,6 +9,7 @@
 [![alt text][3.1]][3]
 [![alt text][2.1]][2]
 [![alt text][5.1]][5]
+[![alt text][6.1]][6]
 [![alt text][1.1]][1]
 
 
@@ -32,7 +33,7 @@
 [6]: https://discord.gg/JFWP8c2gPG
 
 
-![Banner Image](https://github.com/Git-Commit-Show/gcs2020/raw/master/banner_center%201500x300.jpeg.jpeg "GCS2020 Banner")
+![Banner Image](https://github.com/Git-Commit-Show/gcs2020/raw/master/banner_center%201500x300.jpeg.jpeg "GCS2021 Banner")
 
 <p align="center">
 	This repo hosts slides by speakers, discussions and other relevant information needed for attendees during and after the conference <b>Git Commit Show 2021</b>
