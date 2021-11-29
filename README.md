@@ -33,7 +33,7 @@
 ![Banner Image](https://github.com/Git-Commit-Show/gcs2020/raw/master/banner_center%201500x300.jpeg.jpeg "GCS2020 Banner")
 
 <p align="center">
-	This repo hosts slides by speakers, discussions and other relevant information needed for attendees during and after the conference <b>Git Commit Show 2020</b>
+	This repo hosts slides by speakers, discussions and other relevant information needed for attendees during and after the conference <b>Git Commit Show 2021</b>
 </p>
 <p align="center">
 	<a href="http://gitcommit.show/">:link: Website</a>&nbsp;&nbsp;&nbsp;
@@ -53,135 +53,87 @@
 Learn directly from master via interactive live talk
 
 
-**Building your brand online as a developer**
+**The definitive deep dive into the .git folder**
 
-> by Scott Hanselman, Program Manager at Microsoft
+> by Rob Richardson, Developer Advocate at Cyral
 
-[![](https://img.shields.io/badge/%23-Personal%20Branding-lightgrey)](https://gitcommit.show)
-[![](https://img.shields.io/badge/%23-Networking-lightgrey)](https://gitcommit.show)
+[![](https://img.shields.io/badge/%23-DevelopmentWorkflow-lightgrey)](https://gitcommit.show)
+[![](https://img.shields.io/badge/%23-Git-lightgrey)](https://gitcommit.show)
 
 
-**Enabling speed and confidence with "testing"**
+**Accelerating accessibility in a component-based world**
 
-> by Saarthak Vats, VP Engineering at Noon
+> by Hidde de Vries, Accessibility Consultant and Frontend Dev
 
 * [Link to presentation](https://drive.google.com/file/d/1O1jAQuKeP9U8mKfe-KCYdyuTsofF35ZX/view?usp=sharing)
 
-[![](https://img.shields.io/badge/%23-Testing-lightgrey)](https://gitcommit.show)
+[![](https://img.shields.io/badge/%23-Accessibility-lightgrey)](https://gitcommit.show)
 
 
-**Can data science lead us to the grand unified theory of brain function?**
+**Quantum Technology: A dark horse in the race of future tech**
 
-> by Arpan Banerjee, Scientist at National Brain Research Centre
+> by Maanav Seth, Executive Member of Quantum Computing Group IIT Roorkee
 
-[![](https://img.shields.io/badge/%23-NeuroScience-lightgrey)](https://gitcommit.show)
-[![](https://img.shields.io/badge/%23-DataScience-lightgrey)](https://gitcommit.show)
-
-
-**Mastering web performance audits with Github Actions & LightHouse**
-
-> by Muhammad Ahsan Ayaz, Senior Software Engineer
-
-[![](https://img.shields.io/badge/%23-Web-lightgrey)](https://gitcommit.show)
-[![](https://img.shields.io/badge/%23-Performance-lightgrey)](https://gitcommit.show)
+[![](https://img.shields.io/badge/%23-QuantumComputing-lightgrey)](https://gitcommit.show)
 
 
-**Design-first approach to write APIs**
+**Github Actions + Kubernetes : The recipe to level up your software development skills**
 
-> by Phil Sturgeon, Author of Build APIs You Won't Hate
+> by Karan Singh, Senior Principal Architect at Redhat
+
+[![](https://img.shields.io/badge/%23-DevOps-lightgrey)](https://gitcommit.show)
+[![](https://img.shields.io/badge/%23-Jubernetes-lightgrey)](https://gitcommit.show)
+
+
+**Using Reactjs to solve our everyday problems**
+
+> by Praveen Kumar Purushothaman, Full Stack JavaScript Specialist 
 
 * [Link to presentation](https://drive.google.com/file/d/1Ar4FWktBzm4RnKlGCW2KeOC294WClsRI/view?usp=sharing)
 
-[![](https://img.shields.io/badge/%23-API-lightgrey)](https://gitcommit.show)
-[![](https://img.shields.io/badge/%23-Architecture-lightgrey)](https://gitcommit.show)
+[![](https://img.shields.io/badge/%23-FrontEnd-lightgrey)](https://gitcommit.show)
+[![](https://img.shields.io/badge/%23-React-lightgrey)](https://gitcommit.show)
 
 
-**A theory of functional programming**
+**Beyond responsive design: new and future media queries**
 
-> by Eric Normand, Author of Grokking Simplicity, A book on functional programming
+> by Kilian Valkhof, Creator of Polypane
 
 * [Link to presentation](https://drive.google.com/file/d/1xxOib_9dr3a88GRk8_oO77NMYWVwG710/view?usp=sharing)
 
-[![](https://img.shields.io/badge/%23-Functional%20Programming-lightgrey)](https://gitcommit.show)
-
-
-**Dependency management using git**
-
-> by Manaswini Das, Associate Software Engineer at Red Hat
-
-* [Link to presentation](https://drive.google.com/file/d/1gGEpIKVEhvNpPN8SyyZgz_BXcrFrD2vE/view?usp=sharing)
-
-[![](https://img.shields.io/badge/%23-Version%20Control-lightgrey)](https://gitcommit.show)
-[![](https://img.shields.io/badge/%23-Development-lightgrey)](https://gitcommit.show)
-
-
-**Get started with ActivityPub, decentralized social networking protocol**
-
-> by Nilesh Trivedi, Engineering Manager at ClearTax
-
-* [Full recording of the masterclass](https://youtu.be/vmshzcmTeB8)
-
-[![](https://img.shields.io/badge/%23-Decentralized%20Comptuing-lightgrey)](https://gitcommit.show)
-[![](https://img.shields.io/badge/%23-Social%20Networking-lightgrey)](https://gitcommit.show)
-
-
-**Get started with DeepLearning Using TensorFlow 2.0**
-
-> by Usha Rengaraju, India's first women Kaggle Grandmaster
-
-[![](https://img.shields.io/badge/%23-Deep%20Learning-lightgrey)](https://gitcommit.show)
+[![](https://img.shields.io/badge/%23-FrontEnd-lightgrey)](https://gitcommit.show)
+[![](https://img.shields.io/badge/%23-CSS-lightgrey)](https://gitcommit.show)
 
 
 ## Live Breakthrough Showcase Session
 
 Demo of latest breakthroughs happening around the world and the people behind those breakthroughs
 
-**Soundcool: How I built a creative computer music creation system**
+**Open-source RPA with TagUI**
 
-> by Roger Dannenberg, Professor at Carnegie Mellon,  Musician, Composer
+> by Ken Soh, Product Engineer at AI Singapore
 
-* [Link to presentation](https://drive.google.com/file/d/11nENFp9xOtC_5rUYy4CtWw6WUOyPohv7/view?usp=sharing)
-* [Full recording of the showcase](https://youtu.be/OpH33P99UB8)
+* [Link to presentation](https://drive.google.com/file/d/1gGEpIKVEhvNpPN8SyyZgz_BXcrFrD2vE/view?usp=sharing)
 
-[![](https://img.shields.io/badge/%23-#HCI-lightgrey)](https://gitcommit.show)
-[![](https://img.shields.io/badge/%23-Cognitive%20Science-lightgrey)](https://gitcommit.show)
-[![](https://img.shields.io/badge/%23-Signal%20Procesing-lightgrey)](https://gitcommit.show)
+[![](https://img.shields.io/badge/%23-Automation-lightgrey)](https://gitcommit.show)
+[![](https://img.shields.io/badge/%23-RPA-lightgrey)](https://gitcommit.show)
 
 
-**How I made quantum science quicker with fine spirits**
+**Running plugins within a Web App - A NodeJS VM story**
 
-> by Sumner Alperin-Lea, Ph.D. Researcher at University of Toronto
+> by Yashovardhan Agrawal, Developer Relations Manager at Rocket.Chat
 
-[![](https://img.shields.io/badge/%23-Quantum%20Comptuing-lightgrey)](https://gitcommit.show)
+* [Full recording of the masterclass](https://youtu.be/vmshzcmTeB8)
 
-
-**How I made an app that alerts when you touch your face**
-
-> by Maya Farber Brodsky, 16 yr old student from Tel Aviv University
-
-* [Full recording of the showcase](https://youtu.be/GClbYmCREU4)
-* [Link to presentation](https://drive.google.com/file/d/1xxOib_9dr3a88GRk8_oO77NMYWVwG710/view?usp=sharing)
-* [Github repo of this open source project](https://github.com/mfarberbrodsky/dont-touch-your-face)
-
-[![](https://img.shields.io/badge/%23-Computer%20Vision-lightgrey)](https://gitcommit.show)
+[![](https://img.shields.io/badge/%23-NodeJS-lightgrey)](https://gitcommit.show)
+[![](https://img.shields.io/badge/%23-Backend-lightgrey)](https://gitcommit.show)
 
 
-**DejaView: How I built an SDK to recognize faces using computer vision**
+**Can a piece of code improve your posture? Yes!**
 
-> by Sandeep Giri, Founder at CloudxLab, Ex-Amazon
+> by Muhammad Ahsan Ayaz, Software Architect at Syncron AB | Google Developer Expert in Angular
 
-[![](https://img.shields.io/badge/%23-Computer%20Vision-lightgrey)](https://gitcommit.show)
-
-
-
-**Ramudroid: An autonomous robot, progress since the last showcase at Git Commit Show**
-
-> by Altanai Bisht
-
-[![](https://img.shields.io/badge/%23-Robotics-lightgrey)](https://gitcommit.show)
-
-* [Link to presentation](https://drive.google.com/file/d/13074y_XEaS4Nw-JB9M2ikR9UyaQvcXpE/view?usp=sharing)
-
+[![](https://img.shields.io/badge/%23-ComputerVision-lightgrey)](https://gitcommit.show)
 
 
 ## Career Talk Session
@@ -189,30 +141,42 @@ Demo of latest breakthroughs happening around the world and the people behind th
 Career insights for everyone and anyone
 
 
-**Learning to lead for developer**
+**Leveling up as a dev with content Creation**
 
-> by Hampton Lintorn Catlin, VP Engineering at Rent The Runway
+> by Pachi Parra, Developer Relations at New Relic
+
+[![](https://img.shields.io/badge/%23-Writing-lightgrey)](https://gitcommit.show)
+
+**Scope of data journalism for developers**
+
+> by Rangoli Agrawal, Data Journalist at How India Lives
+
+[![](https://img.shields.io/badge/%23-DataJournalism-lightgrey)](https://gitcommit.show)
+
+**Successful self-publishing and the challenges of publishing a book**
+
+> by Hemant Rangan, Director, Inderact Limited (Enhancing India-Global collaborations)
+
+[![](https://img.shields.io/badge/%23-Publishing-lightgrey)](https://gitcommit.show)
+
+**Future is open-source**
+
+> by Kamal Shree, A seasoned professional with 11+ plus years of experience in client-facing roles.
+
+[![](https://img.shields.io/badge/%23-Open%20Source-lightgrey)](https://gitcommit.show)
+
+**Research publications guide**
+
+> by Dr. Varalatchoumy M, Ph.D. and Associate Professor at Cambridge Institute of Technology
+
+[![](https://img.shields.io/badge/%23-Research-lightgrey)](https://gitcommit.show)
+
+**Career hacks for developers**
+
+> by Pradeep Sharma, Author of 21 Career Hacks For Developers
 
 [![](https://img.shields.io/badge/%23-Career-lightgrey)](https://gitcommit.show)
-[![](https://img.shields.io/badge/%23-Leadership-lightgrey)](https://gitcommit.show)
 
-* [Link to presentation](https://drive.google.com/file/d/1Ps2ynFB09ypD20JYyFcDyWUTjlAH63Qa/view?usp=sharing)
-* [Full recording of the talk](https://youtu.be/fg3sFnPsg8k)
-
-**Becoming Product Manager, a guide for developers**
-
-> by Gaurav Nemade, Product Manager at Google AI
-
-[![](https://img.shields.io/badge/%23-Career-lightgrey)](https://gitcommit.show)
-[![](https://img.shields.io/badge/%23-Product%20Management-lightgrey)](https://gitcommit.show)
-
-
-**Becoming Developer Advocate, a guide for developers**
-
-> by Saurabh Gupta, Sr. Developer Advocate at Digital Ocean
-
-[![](https://img.shields.io/badge/%23-Career-lightgrey)](https://gitcommit.show)
-[![](https://img.shields.io/badge/%23-DevRel-lightgrey)](https://gitcommit.show)
 
 
 <hr>
